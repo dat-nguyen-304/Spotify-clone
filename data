@@ -1,0 +1,16 @@
+ACCOUNT {
+  provider: 'spotify',
+  type: 'oauth',
+  providerAccountId: '313vtogtjhwtja47mwhbktyfswta',
+  access_token: 'BQALDzOA6Ih3IgyNtYrI2g4QfA9RJXkPh1DfiqSF4nMoohMn6gHMUTKIIxEpxWvk_Rd3P1VD53MGpdeI2n-XdlX_MvQ7lQHqAapVsc7Ea1Zc7_QVGh6KwxU2-MxZC0_viGFVh4jcjVAi0iiQRcy-GL0tGh7garuTQzYOfzUj_7F08WMCcmuPi5SZRt92lxbcPYwki73O-62ZLXk3QTQnljkuXJnI8etovx3DeOHMP1qGY5fyAn5ncv0fICxesp3KIeY3K3FJvA',
+  token_type: 'Bearer',
+  expires_at: 1679588499,
+  refresh_token: 'AQD-eMIE_R8XE3JpP9_VIljAbuk76z3dfvFVWJOokCZD3PpCoMYJLCevLXvlsi0-MFClsWyLUQT8Z8_V5inolLvnsVJVFdgg1EjwEIbVslsb2pEMdIkWCqld5DwvQuNzpdI',     
+  scope: 'playlist-read-private playlist-read-collaborative streaming user-modify-playback-state user-library-read user-follow-read user-read-playback-state user-read-currently-playing user-read-email user-read-recently-played user-read-private user-top-read'
+}
+USER {
+  id: '313vtogtjhwtja47mwhbktyfswta',
+  name: 'Đạt Nguyễn',
+  email: 'nguyenphatdat3004@gmail.com',
+  image: undefined
+}
